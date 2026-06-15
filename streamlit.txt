@@ -1,0 +1,37 @@
+Sebelum Menjalankan
+
+Pastikan Streamlit sudah terinstall:
+
+pip install streamlit
+
+Cek versi:
+
+streamlit --version
+Cara Menjalankan
+
+Masuk CMD:
+
+cd /d d:\university_counter
+
+lalu:
+
+streamlit run dashboard.py
+
+atau:
+
+streamlit run d:/university_counter/dashboard.py
+
+Jika Error
+Error 1
+'streamlit' is not recognized
+
+Solusi:
+
+pip install streamlit
+
+atau
+
+python -m streamlit run dashboard.py
+
+FIXED : 
+D:\university_counter>python -m streamlit run dashboard.py

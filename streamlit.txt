@@ -35,3 +35,5 @@ python -m streamlit run dashboard.py
 
 FIXED : 
 D:\university_counter>python -m streamlit run dashboard.py
+
+Open your browser at: http://localhost:8501

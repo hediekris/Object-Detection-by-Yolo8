@@ -19,7 +19,7 @@ streamlit run dashboard.py
 
 atau:
 
-streamlit run d:/university_counter/dashboard.py
+streamlit run d:/university_counter/dashboard_v2.py
 
 Jika Error
 Error 1

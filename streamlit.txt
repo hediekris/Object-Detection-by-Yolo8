@@ -27,3 +27,9 @@ CONTOH FIXED :
 D:\university_counter>python -m streamlit run dashboard_v2.py
 
 Open your browser at: http://localhost:8501
+
+Updated
+version 3.0
+This version uses pyyaml to generate the tracker config:
+
+pip install pyyaml
